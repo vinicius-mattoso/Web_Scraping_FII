@@ -1,6 +1,6 @@
 ![Welcome](/Fundos_imobiliários.png?raw=true)
 # Web_Scraping_FII 
-PROJETO (<“https://github.com/vinicius-mattoso/Web_Scraping_FII/blob/main/Web_Scraping_%26_An%C3%A1lise_de_FII.ipynb>)
+PROJETO :point_right: <https://github.com/vinicius-mattoso/Web_Scraping_FII/blob/main/Web_Scraping_%26_An%C3%A1lise_de_FII.ipynb>
 
 Contato do Autor: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.vmrs@gmail.com)](mailto:vinicius.vmrs@gmail.com)
 
