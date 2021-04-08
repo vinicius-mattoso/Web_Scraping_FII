@@ -24,10 +24,10 @@ aberto a quaisquer feedback e comentários
 
   - Fundos com valores patrimoniais acima de 1 Milhão; 
   - Fundos com valores P/VPA abaixo de 1.15;  
-  - Fundos que possuem ativos físicos, precisão ter pelo menos 5 empreendimentos;  
+  - Fundos que possuem ativos físicos, precisam ter pelo menos 5 empreendimentos;  
   - Criação de uma nova coluna (DELTA), contendo o delta entre o preço atual e o VPA.
 
-5. Aplicar um filtro limitando o DELTA menores que 10 reais.
+5. Aplicar um filtro limitando o DELTA a valores menores que 10 reais.
 
 6. Fazer uma ordenação dos fundos com base no ['DY(12M)_ACUMULADO' , 'DIVIDEND_YIELD']
 
